@@ -3,7 +3,7 @@ layout: sidebar
 header: true
 prose: true
 sidebar: page-nav.md
-sidebar-reverse: true
+sidebar-reverse: false
 ---
 
 # The U.S. Bill of Rights
